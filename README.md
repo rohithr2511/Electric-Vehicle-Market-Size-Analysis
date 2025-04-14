@@ -1,7 +1,3 @@
-Here’s a clean and professional `README.md` file for your GitHub repository, summarizing the **Python Electric Vehicle (EV) Data Analysis Project** with key insights and figures from both PDFs:
-
----
-
 # ⚡ Python Electric Vehicle (EV) Data Analysis Project
 
 This project presents an end-to-end data analysis of electric vehicles (EVs) using Python. The goal was to assist consumers in selecting EVs based on budget, range, battery capacity, and other key performance metrics.
